@@ -1,6 +1,8 @@
 # SQL Music Store Analysis
 
-## 📌 Project Overview
+---
+
+##  Project Overview
 This project demonstrates **end-to-end ad-hoc data analysis using SQL** on a relational music store database.  
 The objective is to answer **real-world business questions** related to sales performance, customer behavior, artist popularity, genre trends, and geographical insights.
 
@@ -8,7 +10,7 @@ The analysis progresses from **basic SQL queries** to **advanced analytical tech
 
 ---
 
-## 🗂️ Dataset Description
+##  Dataset Description
 The dataset represents a digital music store and consists of multiple interrelated tables, including:
 
 - **Customer** – customer details and demographics  
@@ -26,7 +28,7 @@ The database follows a **normalized relational schema**, enabling efficient stor
 
 ---
 
-## 🧩 Database Schema
+##  Database Schema
 
 <img width="710" height="574" alt="MusicDatabaseSchema" src="https://github.com/user-attachments/assets/1e77851e-d315-410c-b2e4-3174be021cfa" />
 
@@ -43,7 +45,7 @@ This structure enables multi-table joins and advanced analytical queries used th
 
 ---
 
-## 🎯 Business Objectives
+##  Business Objectives
 The analysis answers key business questions such as:
 - Who are the **highest-spending customers**?
 - Which **cities and countries generate the most revenue**?
@@ -53,14 +55,14 @@ The analysis answers key business questions such as:
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 - **SQL**
 - Relational Database (PostgreSQL)
 - GitHub for version control and documentation
 
 ---
 
-## 🧠 SQL Skills & Concepts Used
+##  SQL Skills & Concepts Used
 
 ### Core SQL
 - `SELECT`, `WHERE`, `ORDER BY`
@@ -98,7 +100,7 @@ The analysis answers key business questions such as:
 
 ---
 
-## 📊 Analysis Highlights
+##  Analysis Highlights
 
 ### Easy-Level Analysis
 - Identified the **senior-most employee** based on job hierarchy  
@@ -121,7 +123,7 @@ The analysis answers key business questions such as:
 
 ---
 
-## 📈 Key Insights
+##  Key Insights
 - Revenue is concentrated among a small group of high-value customers  
 - Music preferences vary significantly across different countries  
 - Certain genres dominate specific geographical markets  
@@ -129,7 +131,7 @@ The analysis answers key business questions such as:
 
 ---
 
-## 📌 Learning Outcomes
+##  Learning Outcomes
 Through this project, I strengthened my ability to:
 - Perform **ad-hoc SQL analysis** on relational databases  
 - Write **clean, readable, and scalable SQL queries**  
@@ -137,4 +139,19 @@ Through this project, I strengthened my ability to:
 - Translate business questions into **actionable data-driven insights**
 
 ---
+
+##  About Me
+I am a B.Tech student actively building skills in **data analysis and analytics tools**, with hands-on experience in **SQL, Excel, Python, and Power BI**.  
+I enjoy working with structured datasets, understanding database schemas, performing **ad-hoc analysis**, and converting data into meaningful business insights.
+
+I am currently seeking **data analyst internships** where I can apply and further strengthen my analytical and problem-solving skills.
+
+---
+
+##  Contact
+- **LinkedIn:** https://www.linkedin.com/in/anujjain9/
+- **Email:** anuj962005@gmail.com
+
+---
+
 
