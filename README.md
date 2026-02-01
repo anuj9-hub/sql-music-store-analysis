@@ -64,36 +64,36 @@ The analysis answers key business questions such as:
 
 ##  SQL Skills & Concepts Used
 
-### Core SQL
+### 🔹Core SQL
 - `SELECT`, `WHERE`, `ORDER BY`
 - `GROUP BY`, `HAVING`
 - Aggregate functions: `SUM`, `COUNT`, `AVG`
 - `LIMIT`
 
-### Joins
+### 🔹Joins
 - `INNER JOIN`
 - Multi-table joins across 5+ tables
 - Relationship-based querying using primary and foreign keys
 
-### Subqueries
+### 🔹Subqueries
 - Nested subqueries
 - Scalar subqueries
 - Subqueries for comparisons with aggregated values
 
-### Common Table Expressions (CTEs)
+### 🔹Common Table Expressions (CTEs)
 - Non-recursive CTEs using `WITH`
 - Query modularization for readability and maintainability
 
-### Recursive CTEs
+### 🔹Recursive CTEs
 - Recursive queries to solve **top-N per group** problems
 - Handling tie scenarios across countries and customers
 
-### Window Functions
+### 🔹Window Functions
 - `ROW_NUMBER()`
 - `PARTITION BY`
 - Ranking and segmentation within groups
 
-### Business Logic
+### 🔹Business Logic
 - Revenue calculation using `unit_price × quantity`
 - Country-wise and customer-wise aggregations
 - Handling shared maximum values in analytical results
@@ -102,19 +102,19 @@ The analysis answers key business questions such as:
 
 ##  Analysis Highlights
 
-### Easy-Level Analysis
+### 🔹Easy-Level Analysis
 - Identified the **senior-most employee** based on job hierarchy  
 - Found **countries with the highest number of invoices**  
 - Retrieved **top invoice values**  
 - Determined the **best-performing city** based on total revenue  
 - Identified the **highest-spending customer**
 
-### Moderate-Level Analysis
+### 🔹Moderate-Level Analysis
 - Identified **Rock music listeners** using multi-table joins and subqueries  
 - Determined the **top 10 Rock artists** based on track count  
 - Retrieved tracks **longer than the average song duration**
 
-### Advanced-Level Analysis
+### 🔹Advanced-Level Analysis
 - Calculated **customer-wise spending on the top-selling artist**  
 - Identified the **most popular music genre for each country** using:
   - Window functions
