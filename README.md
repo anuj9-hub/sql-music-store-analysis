@@ -28,7 +28,8 @@ The database follows a **normalized relational schema**, enabling efficient stor
 
 ## 🧩 Database Schema
 
-![Music Store Database Schema]("E:\SQL\MusicDatabaseSchema.png")
+<img width="710" height="574" alt="MusicDatabaseSchema" src="https://github.com/user-attachments/assets/1e77851e-d315-410c-b2e4-3174be021cfa" />
+
 
 The above Entity Relationship Diagram (ERD) illustrates how transactional tables such as **Invoice** and **InvoiceLine**
 are connected to descriptive dimension tables like **Customer**, **Track**, **Artist**, and **Genre**.
