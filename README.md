@@ -55,7 +55,7 @@ The analysis answers key business questions such as:
 
 ## 🛠️ Tools & Technologies
 - **SQL**
-- Relational Database (PostgreSQL / MySQL compatible)
+- Relational Database (PostgreSQL)
 - GitHub for version control and documentation
 
 ---
